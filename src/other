@@ -1,0 +1,13 @@
+  let data=[{Name:"Rita",Contact:4567893452,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"How are you",time:"7am"}],profile:"./profile5.jpg"},
+          {Name:"Neha",Contact:546578798,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"}],profile:"./profile2.jpg",time:time},
+          {Name:"Sham",Contact:45678934652,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"wyd?",time:"7am"}],profile:"./profile.jpg"},
+          {Name:"Riya",Contact:45678934552,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"Hey",time:"7am"}],profile:"./profile2.jpg"},
+          {Name:"Anita",Contact:45678934542,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"Bye",time:"7am"}],profile:"./profile5.jpg"},
+          {Name:"Nilesh",Contact:5465787982,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"Good Morning",time:"7am"}],profile:"./profile5.jpg"},
+          {Name:"Priya",Contact:45678934522,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"Have a nice day!!!",time:"7am"}],profile:"./profile2.jpg"},
+          {Name:"Ram",Contact:45678934252,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"Hello",time:"7am"}],profile:"./profile5.jpg"},
+          {Name:"Tarun",Contact:45678933452,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"How are you",time:"7am"}],profile:"./profile5.jpg"},
+          {Name:"Pravin",Contact:5465787398,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"How are you",time:"7am"}],profile:"./profile.jpg"},
+          {Name:"Siddhi",Contact:45678934552,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"How are you",time:"7am"}],profile:"./profile2.jpg"},
+          {Name:"Sakshi",Contact:45678934852,MsgArr:[{msg:"Hey",time:"6:30am"},{msg:"Hello",time:"6:35am"},{msg:"How are you",time:"7am"}],profile:"./profile.jpg"},
+        ]
